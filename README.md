@@ -1,3 +1,7 @@
 # hitech-web
- static web </br>
- npm install #install node_modules
+ A software company website
+ 
+ <p align="center">
+  <img src="./img/software.png" width="100%" title="hover text">
+</p>
+
